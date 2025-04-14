@@ -41,7 +41,7 @@ The answer to these curiousities? One way to find out. Ya fucking make it. And I
 
 - There are ~75 **New Units**. Basically upgrades, split into four groups. Castle Unique Units, Generic Units, Other Unique Units, and Scenario Units.
 - Royal is used for the Unique Units. Imperial is used for Generic Units. Elite is used for the other units originally without an upgrade. 
-- Upgrade Costs are reduced to accommodate for the new upgrade after it.
+- Upgrade Costs are modified to accommodate for the new upgrade(s). 
 - Original Imperial Units were slightly buffed to accommodate a new unit before it. I did it because the pattern gap is too low for some, so it was done to ensure my new unit didn't suck dick, but the Imperial ones remained useful.
 - Shadow Technologies were created to ensure all units benefit from the same stuff as the previous unit does - in the current state they all benefit. This can be managed if needed.
 - Resource Nodes were adjusted, specifically increased by %, due to the fact that there are new units and upgrade which will cause you to spend more resources
