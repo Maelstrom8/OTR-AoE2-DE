@@ -15,17 +15,17 @@ My name is Maelstrom. Certain people may know me as Vega. This is my first ever 
 
 This is an experimental mod created purely from a series of what ifs and questions:
 
-- "What if Unique Units had a second upgrade after Elite? That would be cool, a unique unit focused mod.. hmm"
-- "Holy shit this Royal Cataphract.. better hide yo infantry"
-- "Ah.. right.. the scale is tipped in one direction.. hmm what about generic units also having an additional upgrade? Hmm this looks dangerous, yop this is good"
-- "Hehe look Royal Paladin"
-- "Hehe look Royal Demolition Ship"
-- "Hmm, what about the others.. the ones that don't have an Elite Upgrade? What if they get one too?"
-- "Hmm, what about regional upgrades? Scenario Unit integrations?"
-- "I want to use the Heavy Pikeman and Crusader Knight units somehow too..."
+- "What if Unique Units had a second upgrade after Elite?
+- "People are so used to playing the game so the same way for 20+ years.. how would they react to seeing even stronger Cataphracts, War Elephants and shit?"
+- "So the scales are tipped in one direction, so I think I should do the same for a ton of generic units?"
+- "Is an additional upgrade to Siege Onager, Heavy Scorpion, Elite Cannon Galleon, Galleon, Fast Fire Ship, and Heavy Demolition Ship gonna cause any problems?"
+- "Hmm yeah I should probably add Elite upgrades to units like the Condottiero and shit... maybe?"
+- "Should I remake scenario units and integrate them into the game somehow, like Heavy Pikeman, Crusader Knights, Iroquois Warriors and the fuckin Ninjas?"
+- "Should I give those latter three a custom upgrade line too?"
+- "Would people be okay with upgrade cost modifications, resource node changes and or new technologies?"
 - "Would it be an issue if I potentially changed how people played?"
   
-The answer to these curiousities? One way to find out. Ya fucking make it. And I did.
+The answers? One way to find out. Ya fucking make it into a mod.
 
 ---
 
@@ -35,13 +35,13 @@ The answer to these curiousities? One way to find out. Ya fucking make it. And I
 
 > You want advanced information on the units, or about my mod? [PLEASE SEE MY DATA SPREADSHEET](https://docs.google.com/spreadsheets/d/1Lo63eOFyBBlcIGsguk_KXTlGbhizdXJSJFsJYGwFUyo/edit?gid=1663096624#gid=1663096624).
 
-### Mod Summary
+### Summary
 
 - There are about **75** New Units, or mostly new upgrades. 
 - The naming scheme of upgrades are as follows: **Royal** for Unique Units, **Imperial** for Generic Units, and **Elite** for units without an Elite Upgrade. There are some exceptions.
 - Upgrade Costs were modified to accommodate for new upgrades.
-- If a new upgrade was introduced to a unit line with a regional unique upgrade, the regional unique upgrade was slightly buffed to accommodate the new unit (the pattern for stat changes were too tight)
-- Shadow Technologies were created and linked to existing technologies to ensure all units benefit from the same stuff as the previous unit - in the current state they all benefit.
+- If a new upgrade was introduced to a unit line with an existing regional unique upgrade, the regional unique upgrade was slightly buffed to accommodate the new unit (the pattern for stat changes were too tight)
+- All new upgrades currently benefit from existing technologies, civilization bonuses, team bonuses, etc. For everything outside of a tech tree and team bonus, a Shadow Technology was created and linked to original Technologies, giving me better control of tech/effects.
 - All Resource Nodes were increased by 25% 
 - A few new technologies were added. Added a new upgrade for Architecture and Dry Dock. One to give love for buildings since new units, and one to fuck around with Transport Ships.
 - **DOES NOT CURRENTLY (?) HAVE AI SUPPORT**
