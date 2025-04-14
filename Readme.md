@@ -50,8 +50,9 @@ The answers? One way to find out. Ya fucking make it into a mod.
 
 Before I get into the new units and go through them all, I want to make something clear. I hate competitive play. I don't care for balance. I never liked playing AoE2 the proper way, like.. build orders and the amount of time it takes to age up. Ranked games. Win Percentages. 1v1 Arabia Stats. I don't care for any of that. I like cool things. I like power and chaos. This is a mod that will very likely cause the game to be played differently. 
 
-This mod is designed for a deathmatch and or scenario game. That being said, I did make an effort for things to be logical. I try to follow a pattern for stat changes, I don't give a new upgrade something that seems too ridiculous, although some might be. Please keep in mind the mod is a work in progress.
+This mod is designed for a deathmatch and or custom scenario. That being said, I did make an effort for things to be logical. I don't give new upgrades magical fuck you strength, if there were previous units in a line, I tried to follow the stat change pattern. Not all of them follow this. For the units that didn't have an upgrade, they are my take. The other changes are also my takes. As a mod that does something new, these are all.. difficult to balance, but I don't intend to balance them perfectly because it is a mod. I do not think this will play well in a normal game but if it does a decent job I would be surprised. 
 
+The mod is a work in progress and open to feedback. Unless it's about something that is "overpowered" (depends what you say). I think it is okay for
 ----------
 
 ## I DON'T KNOW WHAT TO WRITE
