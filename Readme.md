@@ -52,7 +52,8 @@ Before I get into the new units and go through them all, I want to make somethin
 
 This mod is designed for a deathmatch and or custom scenario. That being said, I did make an effort for things to be logical. I don't give new upgrades magical fuck you strength, if there were previous units in a line, I tried to follow the stat change pattern. Not all of them follow this. For the units that didn't have an upgrade, they are my take. The other changes are also my takes. As a mod that does something new, these are all.. difficult to balance, but I don't intend to balance them perfectly because it is a mod. I do not think this will play well in a normal game but if it does a decent job I would be surprised. 
 
-The mod is a work in progress and open to feedback. Unless it's about something that is "overpowered" (depends what you say). I think it is okay for
+The mod is a work in progress and open to feedback. Unless it's about something that is "overpowered" (depends what you say). I think it is okay for a Paladin to win against an Elite Cataphract but then get fucked by a Royal Cataphract (due to stat differences), because there is now a Imperial Paladin.
+
 ----------
 
 ## I DON'T KNOW WHAT TO WRITE
