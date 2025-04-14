@@ -11,11 +11,9 @@
 
 # Introduction
 
-My name is Maelstrom. Certain people may know me as Vega. This is my first ever mod for Age of Empires 2: Definitive Edition. It is an insane project that I have been working on for a bit over a year (at a slow pace). It has some lore to it, allow me to explain.
+My name is Maelstrom. Certain people may know me as Vega. This is my first ever mod for Age of Empires 2: Definitive Edition. It is an insane project that I have been working on for a bit over a year (at a slow pace). A year or two ago I was kinda experiencing burnout for RTS games, as I have played them *a lot*. One day I stumbled across [Civilization Builder](https://krakenmeister.com/civbuilder/) and later as an extension, the Advanced Genie Editor. As a modder and someone who easily absorbs/learns new information, I uh.. to say I liked AGE was an understatement. I sat in it for hours at a time. It made me hella curious. 
 
-A year or two ago I was kinda experiencing burnout for RTS games, as I have played them *a lot*. One day I stumbled across [Civilization Builder](https://krakenmeister.com/civbuilder/) and later as an extension, the Advanced Genie Editor. As a modder and someone who easily absorbs/learns new information, I uh.. to say I liked AGE was an understatement. I sat in it for hours at a time. It made me hella curious. 
-
-This is an experimental mod. It was created purely the following what ifs and questions:
+This is an experimental mod created purely from a series of what ifs and questions:
 
 - "What if Unique Units had a second upgrade after Elite? That would be cool, a unique unit focused mod.. hmm"
 - "Holy shit this Royal Cataphract.. better hide yo infantry"
@@ -33,18 +31,18 @@ The answer to these curiousities? One way to find out. Ya fucking make it. And I
 
 ## Mod Information 
 
-**Off The Rails** is a mod that adds another level of pain once you reach Imperial Age. It adds an additional upgrade to Castle Unique Units, Generic Units, Other Unique Units that lacked an upgrade, integrates scenario units into the trees, and a little bit more. 
+**Off The Rails** is a mod that adds another level of pain once you reach Imperial Age. It adds an additional upgrade to Castle Unique Units, Generic Units, Other Unique Units that lacked an upgrade, integrates scenario units into the trees, and a little bit more. The mod originally started out as Unique Unit upgrades, but the scale tipped too much in one direction so I started doing it for the rest.
 
 > You want advanced information on the units, or about my mod? [PLEASE SEE MY DATA SPREADSHEET](https://docs.google.com/spreadsheets/d/1Lo63eOFyBBlcIGsguk_KXTlGbhizdXJSJFsJYGwFUyo/edit?gid=1663096624#gid=1663096624).
 
-### Detailed Summary
+### Mod Summary
 
-- There are ~75 **New Units**. Basically upgrades, split into four groups. Castle Unique Units, Generic Units, Other Unique Units, and Scenario Units.
-- Royal is used for the Unique Units. Imperial is used for Generic Units. Elite is used for the other units originally without an upgrade. 
-- Upgrade Costs are modified to accommodate for the new upgrade(s). 
-- Original Imperial Units were slightly buffed to accommodate a new unit before it. I did it because the pattern gap is too low for some, so it was done to ensure my new unit didn't suck dick, but the Imperial ones remained useful.
-- Shadow Technologies were created to ensure all units benefit from the same stuff as the previous unit does - in the current state they all benefit. This can be managed if needed.
-- Resource Nodes were adjusted, specifically increased by %, due to the fact that there are new units and upgrade which will cause you to spend more resources
+- There are about **75** New Units, or mostly new upgrades. 
+- The naming scheme of upgrades are as follows: **Royal** for Unique Units, **Imperial** for Generic Units, and **Elite** for units without an Elite Upgrade. There are some exceptions.
+- Upgrade Costs were modified to accommodate for new upgrades.
+- If a new upgrade was introduced to a unit line with a regional unique upgrade, the regional unique upgrade was slightly buffed to accommodate the new unit (the pattern for stat changes were too tight)
+- Shadow Technologies were created and linked to existing technologies to ensure all units benefit from the same stuff as the previous unit - in the current state they all benefit.
+- All Resource Nodes were increased by 25% 
 - A few new technologies were added. Added a new upgrade for Architecture and Dry Dock. One to give love for buildings since new units, and one to fuck around with Transport Ships.
 - **DOES NOT CURRENTLY (?) HAVE AI SUPPORT**
 
