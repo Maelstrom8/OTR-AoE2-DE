@@ -7,6 +7,7 @@
 
 #### [ [Introduction](#introduction) | [Example Header 1](#example-header-1) | [Example Header 2](#example-header-2) | ]
 
+---
 
 # Introduction
 
@@ -27,6 +28,8 @@ This is an experimental mod. It was created purely the following what ifs and qu
 - "Would it be an issue if I potentially changed how people played?"
   
 The answer to these curiousities? One way to find out. Ya fucking make it. And I did.
+
+---
 
 ## Mod Information 
 
