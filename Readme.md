@@ -9,6 +9,8 @@
 - [Introduction](#introduction)
     - [Mod Information](#mod-information)
       - [Example Header 1](#example-header-1)
+    - [Example Header 2](#example-header-2)
+    
       
 
 ---
@@ -50,7 +52,7 @@ The answers? One way to find out. Ya fucking make it into a mod.
 - A few new technologies were added. Added a new upgrade for Architecture and Dry Dock. One to give love for buildings since new units, and one to fuck around with Transport Ships.
 - **DOES NOT CURRENTLY (?) HAVE AI SUPPORT**
 
-### Design Philosophy / Important Notes
+### Design Philosophy
 
 Before I get into the new units and go through them all, I want to make something clear. I hate competitive play. I don't care for balance. I never liked playing AoE2 the proper way, like.. build orders and the amount of time it takes to age up. Ranked games. Win Percentages. 1v1 Arabia Stats. I don't care for any of that. I like cool things. I like power and chaos. This is a mod that will very likely cause the game to be played differently. 
 
@@ -60,7 +62,10 @@ The mod is a work in progress and open to feedback. Unless it's about something 
 
 ----------
 
-## I DON'T KNOW WHAT TO WRITE
+## Civilizations
+
+### I DON'T KNOW YET
+
 
 
 
