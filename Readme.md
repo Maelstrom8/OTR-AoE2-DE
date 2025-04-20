@@ -4,8 +4,11 @@
 > [!IMPORTANT]
 > *The following is a giant writeup on a very ambitious mod for Age of Empires 2: Definitive Edition. If you did not bring your reading comprehension with you when you clicked this link, please leave now and go get it. Thanks.*
 
+# Contents
 
-#### [ [Introduction](#introduction) | [Mod Information](#mod-information) | [Example Header 2](#example-header-2) ]
+- [Introduction](#introduction)
+- [Mod Information](#mod-information)
+- [Example Header 2](#example-header-2)
 
 ---
 
