@@ -11,10 +11,9 @@
       - [Summary](#summary)
       - [Design Philosophy](#design-philosophy)
     - [Civilizations](#civilizations)
-      - [I don't know yet](#i-don't-know-yet)
+      - [I don't know yet](#i-dont-know-yet)
     
-      
-
+    
 ---
 
 # Introduction
