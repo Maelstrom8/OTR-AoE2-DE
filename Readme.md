@@ -8,8 +8,10 @@
 
 - [Introduction](#introduction)
     - [Mod Information](#mod-information)
-      - [Example Header 1](#example-header-1)
-    - [Example Header 2](#example-header-2)
+      - [Summary](#summary)
+      - [Design Philosophy](#design-philosophy)
+    - [Civilizations](#civilizations)
+      - [I don't know yet](#i-don't-know-yet)
     
       
 
