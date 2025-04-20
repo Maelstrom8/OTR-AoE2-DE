@@ -7,8 +7,8 @@
 # Contents
 
 - [Introduction](#introduction)
-- [Mod Information](#mod-information)
-- [Example Header 2](#example-header-2)
+  - [Mod Information](#mod-information)
+  - [Example Header 2](#example-header-2)
 
 ---
 
