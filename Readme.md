@@ -4,6 +4,9 @@
 > [!IMPORTANT]
 > *The following is a giant writeup on a very ambitious mod for Age of Empires 2: Definitive Edition. If you did not bring your reading comprehension with you when you clicked this link, please leave now and go get it. Thanks.*
 
+> [!IMPORTANT]
+> *This is a work in progress mod. I have worked on it for a long time and have reached the point where I no longer want to mod or play the game. I am releasing what I have to the public, and I plan on slowly updating it over time.*
+
 # Contents
 
 - [Introduction](#introduction)
@@ -41,7 +44,7 @@ The answers? One way to find out. Ya fucking make it into a mod.
 **Off The Rails** is a mod that adds another level of pain once you reach Imperial Age. It adds an additional upgrade to Castle Unique Units, Generic Units, Other Unique Units that lacked an upgrade, integrates scenario units into the trees, and a little bit more. The mod originally started out as Unique Unit upgrades, but the scale tipped too much in one direction so I started doing it for the rest.
 
 > You want advanced information on the units, or about my mod? [PLEASE SEE MY DATA SPREADSHEET](https://docs.google.com/spreadsheets/d/1Lo63eOFyBBlcIGsguk_KXTlGbhizdXJSJFsJYGwFUyo/edit?gid=1663096624#gid=1663096624).
-> This is a work in progress mod, I have worked on it for so long, I've reached the point where I want to take a break / move on. I am releasing what I have and going back to it later
+
 
 ### Summary
 
