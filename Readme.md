@@ -46,12 +46,14 @@ The answers? One way to find out. Ya fucking make it into a mod.
 > You want advanced information on the units, or about my mod? [PLEASE SEE MY DATA SPREADSHEET](https://docs.google.com/spreadsheets/d/1Lo63eOFyBBlcIGsguk_KXTlGbhizdXJSJFsJYGwFUyo/edit?gid=1663096624#gid=1663096624).
 
 
-### Summary
+### Current Features
 
-- There are about **75** New Units, or mostly new upgrades. 
-- The naming scheme of upgrades are as follows: **Royal** for Unique Units, **Imperial** for Generic Units, and **Elite** for units without an Elite Upgrade. There are some exceptions.
-- Upgrade Costs were modified to accommodate for new upgrades.
-- If a new upgrade was introduced to a unit line with an existing regional unique upgrade, the regional unique upgrade was slightly buffed to accommodate the new unit (the pattern for stat changes were too tight)
+- Unique Units now have a second upgrade. Elite upgrades into Royal. 
+
+
+
+
+- **~75** New Units (or rather upgrades to previous lines). **Royal** for Unique Units, **Imperial** for Generic Units, and **Elite** for units without an Elite Upgrade. And then the Heavy Siege Onager.
 - All new upgrades currently benefit from existing technologies, civilization bonuses, team bonuses, etc. For everything outside of a tech tree and team bonus, a Shadow Technology was created and linked to original Technologies, giving me better control of tech/effects.
 - All Resource Nodes were increased by 25% 
 - A few new technologies were added. Added a new upgrade for Architecture and Dry Dock. One to give love for buildings since new units, and one to fuck around with Transport Ships.
