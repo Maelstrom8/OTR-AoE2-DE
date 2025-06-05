@@ -27,7 +27,7 @@ This is an experimental mod created purely from a series of what ifs and questio
 - "So the scales are tipped in one direction, so I think I should do the same for a ton of generic units?"
 - "Is an additional upgrade to Siege Onager, Heavy Scorpion, Elite Cannon Galleon, Galleon, Fast Fire Ship, and Heavy Demolition Ship gonna cause any problems?"
 - "Hmm yeah I should probably add Elite upgrades to units like the Condottiero and shit... maybe?"
-- "Should I remake scenario units and integrate them into the game somehow, like Heavy Pikeman, Crusader Knights, Iroquois Warriors and the fuckin Ninjas?"
+- "Should I remake scenario units and integrate them into the game somehow, like Heavy Pikeman, Crusader Knights, Iroquois Warriors and the Ninjas?"
 - "Should I give those latter three a custom upgrade line too?"
 - "Would people be okay with upgrade cost modifications, resource node changes and or new technologies?"
 - "Would it be an issue if I potentially changed how people played?"
@@ -41,6 +41,7 @@ The answers? One way to find out. Ya fucking make it into a mod.
 **Off The Rails** is a mod that adds another level of pain once you reach Imperial Age. It adds an additional upgrade to Castle Unique Units, Generic Units, Other Unique Units that lacked an upgrade, integrates scenario units into the trees, and a little bit more. The mod originally started out as Unique Unit upgrades, but the scale tipped too much in one direction so I started doing it for the rest.
 
 > You want advanced information on the units, or about my mod? [PLEASE SEE MY DATA SPREADSHEET](https://docs.google.com/spreadsheets/d/1Lo63eOFyBBlcIGsguk_KXTlGbhizdXJSJFsJYGwFUyo/edit?gid=1663096624#gid=1663096624).
+> This is a work in progress mod, I have worked on it for so long, I've reached the point where I want to take a break / move on. I am releasing what I have and going back to it later
 
 ### Summary
 
