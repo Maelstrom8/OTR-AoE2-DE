@@ -5,7 +5,7 @@
 > *The following is a giant writeup on a very ambitious mod for Age of Empires 2: Definitive Edition. If you did not bring your reading comprehension with you when you clicked this link, please leave now and go get it. Thanks.*
 
 > [!IMPORTANT]
-> *This is a work in progress mod. I have worked on it for a long time and have reached the point where I no longer want to mod or play the game. I am releasing what I have to the public, and I plan on slowly updating it over time.*
+> *This is a work in progress mod. I have worked on it for a long time and have reached the point where I no longer want to mod or play the game.. but I'm still trying to get it out / updated.*
 
 # Contents
 
@@ -25,14 +25,14 @@ My name is Maelstrom. Certain people may know me as Vega. This is my first ever 
 
 This is an experimental mod created purely from a series of what ifs and questions:
 
-- "What if Unique Units had a second upgrade after Elite?
-- "People are so used to playing the game so the same way for 20+ years.. how would they react to seeing even stronger Cataphracts, War Elephants and shit?"
-- "So the scales are tipped in one direction, so I think I should do the same for a ton of generic units?"
-- "Is an additional upgrade to Siege Onager, Heavy Scorpion, Elite Cannon Galleon, Galleon, Fast Fire Ship, and Heavy Demolition Ship gonna cause any problems?"
-- "Hmm yeah I should probably add Elite upgrades to units like the Condottiero and shit... maybe?"
-- "Should I remake scenario units and integrate them into the game somehow, like Heavy Pikeman, Crusader Knights, Iroquois Warriors and the Ninjas?"
-- "Should I give those latter three a custom upgrade line too?"
-- "Would people be okay with upgrade cost modifications, resource node changes and or new technologies?"
+- "What would happen if I gave Unique Units a second upgrade?"
+- "How would people react to a Royal Cataphract?"
+- "I shouldn't let generic units feel left out, right?"
+- "I shouldn't let siege weapons and ships feel left out, right?"
+- "I shouldn't let units without an Elite upgrade feel left out, right?
+- "Should I integrate scenario units into the game as regional upgrades or stuff?"
+- "Should I modify the cost of upgrades, modify resource nodes and the sort to accomodate the newer upgrades?"
+- "Should I make new upgrades to technologies or make new ones to accommodate the newer upgrades?"
 - "Would it be an issue if I potentially changed how people played?"
   
 The answers? One way to find out. Ya fucking make it into a mod.
@@ -49,10 +49,6 @@ The answers? One way to find out. Ya fucking make it into a mod.
 ### Current Features
 
 - Unique Units now have a second upgrade. Elite upgrades into Royal. 
-
-
-
-
 - **~75** New Units (or rather upgrades to previous lines). **Royal** for Unique Units, **Imperial** for Generic Units, and **Elite** for units without an Elite Upgrade. And then the Heavy Siege Onager.
 - All new upgrades currently benefit from existing technologies, civilization bonuses, team bonuses, etc. For everything outside of a tech tree and team bonus, a Shadow Technology was created and linked to original Technologies, giving me better control of tech/effects.
 - All Resource Nodes were increased by 25% 
