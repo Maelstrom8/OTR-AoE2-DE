@@ -29,9 +29,9 @@ Luckily I stumbled upon [Civilization Builder](https://krakenmeister.com/civbuil
 
 ## Mod Information 
 
-> If you want to know to know a short version of what this mod is, it is basically my own take of [5th Age Mod from Voobly](https://www.voobly.com/gamemods/mod/340/5th-Age-Mod) but on the Definition Edition, without realizing it. As I got closer to finishing it, I realized my mod shared similaries with this mod (I am NOT doing a fifth age, though).
+**Off The Rails** is an overhaul featuring new units, upgrades and more. It started off just adding a additional upgrade to Castle Unique Units but it expanded into another upgrade for Generic Units, Other Unique Units that lacked an upgrade, scenario unit integration, and a little bit more. It tipped too much in one direction to just be Castle UUs. I do not have a magical fifth age that unlocks new technologies and units, they just become available in late game after you reach Imperial and they use the original technologies and units as requirements. It meant to add an extra level of chaos.
 
-Otherwise, **Off The Rails** is an overhaul featuring new units, upgrades and more. It started off just adding a additional upgrade to Castle Unique Units but it expanded into another upgrade for Generic Units, Other Unique Units that lacked an upgrade, scenario unit integration, and a little bit more. It tipped too much in one direction to just be Castle UUs. I do not have a magical fifth age that unlocks new technologies and units, they just become available in late game after you reach Imperial and they use the original technologies and units as requirements. It meant to add an extra level of chaos.
+It is basically my own take of [5th Age Mod from Voobly](https://www.voobly.com/gamemods/mod/340/5th-Age-Mod) but on the Definition Edition, without realizing it. As I got closer to finishing it, I realized my mod shared similaries with this mod.
 
 > You want advanced information on the units, or about my mod? [PLEASE SEE MY DATA SPREADSHEET](https://docs.google.com/spreadsheets/d/1Lo63eOFyBBlcIGsguk_KXTlGbhizdXJSJFsJYGwFUyo/edit?gid=1663096624#gid=1663096624).
 
