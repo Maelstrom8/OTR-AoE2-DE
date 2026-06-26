@@ -3,16 +3,16 @@
 
 > [!IMPORTANT]
 > *The following is a giant writeup on a very ambitious mod for Age of Empires 2: Definitive Edition. If you did not bring your reading comprehension with you when you clicked this link, please leave now and go get it. Thanks.*
+> 
+> *If you are someone who has played the game the same way for the last 25 years, and you don't like change, you play the game competitively, you care about win percentages, what technologies/units a civilization should have or not have, the word "overpowered" is part of your normal vocabulary and the sort.. please leave **now**. This mod is not for you.*
 
-> [!IMPORTANT]
-> *This is a work in progress mod. I have worked on it for a long time and have reached the point where I no longer want to mod or play the game.. but I'm still trying to get it out / updated.*
 
 # Contents
 
 - [Introduction](#introduction)
     - [Mod Information](#mod-information)
-      - [Summary](#summary)
       - [Design Philosophy](#design-philosophy)
+      - [Current Features](#current-features)
     - [Civilizations](#civilizations)
       - [I don't know yet](#i-dont-know-yet)
     
@@ -21,9 +21,9 @@
 
 # Introduction
 
-My name is Maelstrom (some may known me as Vega). I've been playing RTS games for over 20 years, including Age of Empires 2. Around 2023, I was experiencing a bit of burnout for them as a whole. Most people who experience burnout probably just play something else but I personally wanted something that would get me back into them. I generally only played Castle Blood scenarios against AI, I never did ANY competitive. I was a custom game guy, no steam achievements, no care for the sweaty type of playstyle. It just got boring and I would never resort to playing against people.
+My name is Maelstrom (some may known me as Vega). I've been playing RTS games for over 20 years, including Age of Empires 2. Around 2023, I was experiencing a bit of burnout for them as a whole. Most people who experience burnout probably just play something else but I personally wanted something that would get me back into them. I generally only played Castle Blood scenarios against AI. I was a custom game guy, no steam achievements, no care for ranked play, some care for PvE games though. It just got boring and I would never resort to playing against people.
 
-Luckily I stumbled upon [Civilization Builder](https://krakenmeister.com/civbuilder/) and the Advanced Genie Editor at some point. Being a modder at heart, I dived right in. I sat in AGE for hours on end and starting messing around and ended up figuring out what I could do to get myself excited again.
+Luckily I stumbled upon [Civilization Builder](https://krakenmeister.com/civbuilder/) and the Advanced Genie Editor at some point. Being a modder at heart, I dived right in. I sat in AGE for hours on end and starting messing around and ended up figuring out what I could do to get myself excited again. And here we are.
 
 ---
 
@@ -35,6 +35,18 @@ It is basically my own take of [5th Age Mod from Voobly](https://www.voobly.com/
 
 > You want advanced information on the units, or about my mod? [PLEASE SEE MY DATA SPREADSHEET](https://docs.google.com/spreadsheets/d/1Lo63eOFyBBlcIGsguk_KXTlGbhizdXJSJFsJYGwFUyo/edit?gid=1663096624#gid=1663096624).
 
+### Design Philosophy
+
+<Details>
+<summary>How The Mod Was Made</summary>
+
+This mod was influenced from years of playing Castle Blood scenarios and a bit of other scenarios, so it is probably designed for high resources or a custom scenario. That being said, I tried to make it possible to be played within a normal game.
+
+The new units are not.. out of this world in terms of stats. I generally try to follow a pattern (if there is one). Otherwise, I reference/compare and go from there. Aside from maybe a Royal War Elephant, I am not worried too much.
+
+The mod is a work in progress and I'm open to feedback.. unless the word "overpowered" is a widely used word in your vocabulary, then nah. An Elite Cataphract loses to a Paladin, but now a Paladin loses to a Royal Cataphract. Guess what? Royal Cataphract loses to an Imperial Paladin. An Imperial Paladin loses to an Imperial Halberdier. And yes, a Royal Samurai, Teutonic Knight and a Jaguar Warrior delete each other pretty fast just like their Elite versions. Use counterplay. I'm covering most units for a reason.
+
+</Details>
 
 ### Current Features
 
@@ -45,13 +57,6 @@ It is basically my own take of [5th Age Mod from Voobly](https://www.voobly.com/
 - A few new technologies were added. Added a new upgrade for Architecture and Dry Dock. One to give love for buildings since new units, and one to fuck around with Transport Ships.
 - **DOES NOT CURRENTLY (?) HAVE AI SUPPORT**
 
-### Design Philosophy
-
-Before I explain about my mod in depth, I would like to make something very clear. If you are someone who has played the game the same way for the last 25 years, you don't like change, you play the game competitively, you care about historical accuracy.. please actually leave now. I have played custom games for like 25 years (I still do). Not once have I thought about win percentages and eco. I do not align myself with the people that currently make up the community and never will. 
-
-This mod was influenced from years of playing Castle Blood scenarios and a bit of other scenarios, so it is probably designed for high resources or a custom scenario. That being said, it can possibly be played like a standard game. I did put effort to acheive that, I believe. I don't give new upgrades magical overpowering strength, if there were previous units in a line, I tried to follow the stat change pattern. Not all of them follow this. For the units that didn't have an upgrade, they are my take. The other changes are also my takes. As a mod that does something new, these are all.. difficult to balance, but I don't intend to balance them perfectly because let's be honest, a game with almost 60 civilizations isn't balanced. I do not think this will play well in a normal game but if it does a decent job I would be surprised. 
-
-The mod is a work in progress and I'm open to feedback.. unless the word "overpowered" is a widely used word in your vocabulary, then nah. An Elite Cataphract loses to a Paladin, but now a Paladin loses to a Royal Cataphract. Guess what? Royal Cataphract loses to an Imperial Paladin. An Imperial Paladin loses to an Imperial Halberdier. And yes, a Royal Samurai, Teutonic Knight and a Jaguar Warrior delete each other pretty fast just like their Elite versions. Use counterplay. I'm covering most units for a reason.
 
 ----------
 
