@@ -51,6 +51,8 @@ Before I get into the new units and go through them all, I want to make somethin
 
 This mod is designed for a deathmatch and or custom scenario. That being said, I did make an effort for things to be logical. I don't give new upgrades magical fuck you strength, if there were previous units in a line, I tried to follow the stat change pattern. Not all of them follow this. For the units that didn't have an upgrade, they are my take. The other changes are also my takes. As a mod that does something new, these are all.. difficult to balance, but I don't intend to balance them perfectly because it is a mod. I do not think this will play well in a normal game but if it does a decent job I would be surprised. 
 
+The mod is a work in progress and I'm open to feedback.. unless the word "overpowered" is a widely used word in your vocabulary, then nah. An Elite Cataphract loses to a Paladin, but now a Paladin loses to a Royal Cataphract. Guess what? Royal Cataphract loses to an Imperial Paladin. An Imperial Paladin loses to an Imperial Halberdier. And yes, a Royal Samurai, Teutonic Knight and a Jaguar Warrior all kill each other pretty fast just like their Elite versions. Use counterplay. I'm covering most units for a reason.
+
 ----------
 
 ## Civilizations
