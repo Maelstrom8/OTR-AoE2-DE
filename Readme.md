@@ -21,27 +21,17 @@
 
 # Introduction
 
-My name is Maelstrom. Certain people may know me as Vega. This is my first ever mod for Age of Empires 2: Definitive Edition. It is an insane project that I have been working on for a bit over a year (at a slow pace). A year or two ago I was kinda experiencing burnout for RTS games, as I have played them *a lot*. One day I stumbled across [Civilization Builder](https://krakenmeister.com/civbuilder/) and later as an extension, the Advanced Genie Editor. As a modder and someone who easily absorbs/learns new information, I uh.. to say I liked AGE was an understatement. I sat in it for hours at a time. It made me hella curious. 
+My name is Maelstrom (some may known me as Vega). I've been playing RTS games for over 20 years, including Age of Empires 2. Around 2023, I was experiencing a bit of burnout for them as a whole. Most people who experience burnout probably just play something else but I personally wanted something that would get me back into them. I generally only played Castle Blood scenarios against AI, I never did ANY competitive. I was a custom game guy, no steam achievements, no care for the sweaty type of playstyle. It just got boring and I would never resort to playing against people.
 
-This is an experimental mod created purely from a series of what ifs and questions:
-
-- "What would happen if I gave Unique Units a second upgrade?"
-- "How would people react to a Royal Cataphract?"
-- "I shouldn't let generic units feel left out, right?"
-- "I shouldn't let siege weapons and ships feel left out, right?"
-- "I shouldn't let units without an Elite upgrade feel left out, right?
-- "Should I integrate scenario units into the game as regional upgrades or stuff?"
-- "Should I modify the cost of upgrades, modify resource nodes and the sort to accomodate the newer upgrades?"
-- "Should I make new upgrades to technologies or make new ones to accommodate the newer upgrades?"
-- "Would it be an issue if I potentially changed how people played?"
-  
-The answers? One way to find out. Ya fucking make it into a mod.
+Luckily I stumbled upon [Civilization Builder](https://krakenmeister.com/civbuilder/) and the Advanced Genie Editor at some point. Being a modder at heart, I dived right in. I sat in AGE for hours on end and starting messing around and ended up figuring out what I could do to get myself excited again.
 
 ---
 
 ## Mod Information 
 
-**Off The Rails** is a mod that adds another level of pain once you reach Imperial Age. It adds an additional upgrade to Castle Unique Units, Generic Units, Other Unique Units that lacked an upgrade, integrates scenario units into the trees, and a little bit more. The mod originally started out as Unique Unit upgrades, but the scale tipped too much in one direction so I started doing it for the rest.
+> If you want to know to know a short version of what this mod is, it is basically my own take of [5th Age Mod from Voobly](https://www.voobly.com/gamemods/mod/340/5th-Age-Mod) but on the Definition Edition, without realizing it. As I got closer to finishing it, I realized my mod shared similaries with this mod (I am NOT doing a fifth age, though).
+
+Otherwise, **Off The Rails** is an overhaul featuring new units, upgrades and more. It started off just adding a additional upgrade to Castle Unique Units but it expanded into another upgrade for Generic Units, Other Unique Units that lacked an upgrade, scenario unit integration, and a little bit more. It tipped too much in one direction to just be Castle UUs. I do not have a magical fifth age that unlocks new technologies and units, they just become available in late game after you reach Imperial and they use the original technologies and units as requirements. It meant to add an extra level of chaos.
 
 > You want advanced information on the units, or about my mod? [PLEASE SEE MY DATA SPREADSHEET](https://docs.google.com/spreadsheets/d/1Lo63eOFyBBlcIGsguk_KXTlGbhizdXJSJFsJYGwFUyo/edit?gid=1663096624#gid=1663096624).
 
